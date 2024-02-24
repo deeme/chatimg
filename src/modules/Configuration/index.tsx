@@ -218,8 +218,8 @@ const Configuration: FC<ConfigurationProps> = ({
           configs.imageModel === 'pastelMixAnime' ||
           configs.imageModel === 'absoluteReality' ||
           configs.imageModel === 'anything' ||
-          configs.imageModel === 'pastelMixAnime' ||
           configs.imageModel === 'meinamix' ||
+          configs.imageModel === 'deliberate' ||
           configs.imageModel === 'revAnimated' ||
           configs.imageModel === 'realisticVision' ||
           configs.imageModel === 'Replicate' ? (
@@ -253,8 +253,8 @@ const Configuration: FC<ConfigurationProps> = ({
           configs.imageModel === 'pastelMixAnime' ||
           configs.imageModel === 'absoluteReality' ||
           configs.imageModel === 'anything' ||
-          configs.imageModel === 'pastelMixAnime' ||
           configs.imageModel === 'meinamix' ||
+          configs.imageModel === 'deliberate' ||
           configs.imageModel === 'revAnimated' ||
           configs.imageModel === 'realisticVision' ? (
             <div>
